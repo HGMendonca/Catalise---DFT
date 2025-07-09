@@ -34,5 +34,5 @@ OBS. É necessário também que tenha congervido a energia total, o ZPE e S da m
 
 Com todos esses ingredientes basta fazer o cálculo:
 
-         $$ \Delta G_{H^\ast} = E_{DFT}^{H^\ast} + E_{ZPE}^{H^\ast} - TS^{H^\ast} - (E_{DFT}^\ast) -0.5 (E_{DFT}^{H_2} + E_{ZPE}^{H_2} - TS^{H_2})$$
+      ΔG_{H^\ast} = E_{DFT}^{H^\ast} + E_{ZPE}^{H^\ast} - TS^{H^\ast} - (E_{DFT}^\ast) -0.5 (E_{DFT}^{H_2} + E_{ZPE}^{H_2} - TS^{H_2})
              
