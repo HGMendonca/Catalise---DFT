@@ -33,5 +33,6 @@ Após esses passos já estamos prontos para calcular ΔG.
 OBS. É necessário também que tenha congervido a energia total, o ZPE e S da molécula de H_2.
 
 Com todos esses ingredientes basta fazer o cálculo:
+
              ΔG_{H^*} = E^{H^*} + ZPE^{H^*} - TS^{H^*} - E^* - 0.5 (E^{H_2} + ZPE^{H_2} - TS^{H_2})
- 
+             
